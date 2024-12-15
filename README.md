@@ -19,10 +19,15 @@ View All Contact Details Page:
 Edit Info Page:
 <img width="1439" alt="Screenshot 2024-12-15 at 10 20 08 PM" src="https://github.com/user-attachments/assets/d00ee747-f2a3-4b9b-aa1c-94ff93535f96" />
 
+Postman Route Checking:
+<img width="1439" alt="Screenshot 2024-12-15 at 10 25 41 PM" src="https://github.com/user-attachments/assets/90e3361e-619f-4034-989b-047bc7f97061" />
+
+Database ScreenShot:
+<img width="1296" alt="Screenshot 2024-12-15 at 10 26 14 PM" src="https://github.com/user-attachments/assets/21fd2287-6368-4351-9024-926b568e234f" />
+
+
 Footer Component
 <img width="1439" alt="Screenshot 2024-12-15 at 10 20 25 PM" src="https://github.com/user-attachments/assets/cd867179-792a-4060-b215-59f155f1545f" />
-
-
 
 
 💡 Development Highlights:
